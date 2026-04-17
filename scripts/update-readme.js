@@ -2,7 +2,8 @@ const fs = require("fs");
 const path = require("path");
 
 const root = process.cwd();
-const REPO = process.env.GITHUB_REPOSITORY || "Pedrospecian/br-remote-devs-talents";
+const REPO =
+  process.env.GITHUB_REPOSITORY || "william-keller/br-remote-devs-talents";
 const BASE_URL = `https://github.com/${REPO}/blob/main`;
 
 const GROUPS = {
@@ -86,7 +87,7 @@ for (const [group, techs] of Object.entries(groups)) {
     for (const [level, files] of Object.entries(levels)) {
       for (const file of files) {
         lines.push(
-          `| ${formatName(file)} | ${level === "_root" ? "—" : level} | [View](${buildUrl(tech, level, file)}) |`
+          `| ${formatName(file)} | ${level === "_root" ? "—" : level} | [View](${buildUrl(tech, level, file)}) |`,
         );
       }
     }
