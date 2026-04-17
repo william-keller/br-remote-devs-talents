@@ -2,9 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 const root = process.cwd();
-const REPO =
-  process.env.GITHUB_REPOSITORY || "william-keller/br-remote-devs-talents";
-const BASE_URL = `https://github.com/${REPO}/blob/main`;
+const BASE_URL = `https://github.com/william-keller/br-remote-devs-talents/blob/main`;
 
 const GROUPS = {
   ".NET Development": [".NET"],
