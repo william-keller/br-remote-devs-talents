@@ -135,6 +135,7 @@ br-remote-devs-talents/
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
+| Jose Eduardo de Paiva Almeida | pl | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/React%20Native/pl/Jose_Eduardo_de_Paiva_Almeida.pdf) |
 | Moser Zeferino Vicente Jose | sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/React%20Native/sr/Moser_Zeferino_Vicente_Jose.pdf) |
 
 #### iOS
