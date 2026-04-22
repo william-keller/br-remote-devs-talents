@@ -51,30 +51,28 @@ br-remote-devs-talents/
 
 ### .NET Development
 
-The .NET section contains 20 professionals with expertise in Microsoft technologies and enterprise application development.
-
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| FlavioDePaula | Principal-TechLead | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Principal-TechLead/FlavioDePaula.pdf) |
-| william keller | Principal-TechLead | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Principal-TechLead/william-keller.pdf) |
-| Rodrigo Rosa eng | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/CV%20Rodrigo%20Rosa%20eng%20.pdf) |
-| Denilson Ribeiro | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/Denilson%20Ribeiro%20Resume.pdf) |
-| FlavioDePaula | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/FlavioDePaula.pdf) |
-| José Teixeira | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/José%20Teixeira%20-%20Resume%20-%20Senior%20Software%20.NET%20Engineer%20-%202026.pdf) |
-| Muriel Aurelio | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/Muriel_Aurelio_Resume.pdf) |
-| Rui Moraes | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/Rui_Moraes.pdf) |
-| andersonnsantos | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/andersonnsantos.pdf) |
-| antonio silva | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/antonio-silva.pdf) |
-| arthur webster moreira | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/arthur-webster-moreira.pdf) |
-| carlos marcelo vargas cuba | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/carlos_marcelo_vargas_cuba.pdf) |
-| ives ancelmo | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/ives-ancelmo.pdf) |
-| luiz santos | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/luiz-santos.pdf) |
-| oziel silva | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/oziel-silva.pdf) |
-| paolo fernandes | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/paolo-fernandes.pdf) |
-| rafael kayser | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/rafael-kayser.pdf) |
-| victor pinheiro | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/victor-pinheiro.pdf) |
-| victor brongel curriculum | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/victor_brongel_curriculum.pdf) |
-| william keller | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/.NET/Sr/william-keller.pdf) |
+| FlavioDePaula | Principal-TechLead | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Principal-TechLead/FlavioDePaula.pdf) |
+| william keller | Principal-TechLead | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Principal-TechLead/william-keller.pdf) |
+| Rodrigo Rosa eng | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/CV%20Rodrigo%20Rosa%20eng%20.pdf) |
+| Denilson Ribeiro | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/Denilson%20Ribeiro%20Resume.pdf) |
+| FlavioDePaula | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/FlavioDePaula.pdf) |
+| José Teixeira | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/Jos%C3%A9%20Teixeira%20-%20Resume%20-%20Senior%20Software%20.NET%20Engineer%20-%202026.pdf) |
+| Muriel Aurelio | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/Muriel_Aurelio_Resume.pdf) |
+| Rui Moraes | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/Rui_Moraes.pdf) |
+| andersonnsantos | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/andersonnsantos.pdf) |
+| antonio silva | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/antonio-silva.pdf) |
+| arthur webster moreira | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/arthur-webster-moreira.pdf) |
+| carlos marcelo vargas cuba | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/carlos_marcelo_vargas_cuba.pdf) |
+| ives ancelmo | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/ives-ancelmo.pdf) |
+| luiz santos | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/luiz-santos.pdf) |
+| oziel silva | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/oziel-silva.pdf) |
+| paolo fernandes | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/paolo-fernandes.pdf) |
+| rafael kayser | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/rafael-kayser.pdf) |
+| victor pinheiro | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/victor-pinheiro.pdf) |
+| victor brongel | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/victor_brongel_curriculum.pdf) |
+| william keller | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/william-keller.pdf) |
 
 ### Frontend Development
 
@@ -82,20 +80,21 @@ The .NET section contains 20 professionals with expertise in Microsoft technolog
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| Carlos Junior | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/Angular/Sr/Carlos_Junior.pdf) |
+| Carlos Junior | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Angular/Sr/Carlos_Junior.pdf) |
 
 #### React
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| Igor Souza | Jr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/React/Jr/Igor_Souza.pdf) |
-| PedroToupitzenSpecian | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/React/Sr/PedroToupitzenSpecian.pdf) |
+| Igor Souza | Jr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/React/Jr/Igor_Souza.pdf) |
+| Guilherme Galabarof | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/React/Sr/Guilherme_Galabarof.pdf) |
+| PedroToupitzenSpecian | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/React/Sr/PedroToupitzenSpecian.pdf) |
 
 #### Vue
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| gustavo barbosa | Mid | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/Vue/Mid/gustavo-barbosa.pdf) |
+| gustavo barbosa | Mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Vue/Mid/gustavo-barbosa.pdf) |
 
 ### Backend Development
 
@@ -103,25 +102,26 @@ The .NET section contains 20 professionals with expertise in Microsoft technolog
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| HussyvelRibeiroDaSilva | mid | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/Java/mid/HussyvelRibeiroDaSilva.pdf) |
-| MarcklenGuimaraes | mid | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/Java/mid/MarcklenGuimaraes.pdf) |
-| .Diegoazevedo | sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/Java/sr/CV.Diegoazevedo.pdf) |
-| .GabrielSantos | sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/Java/sr/CV.GabrielSantos.pdf) |
+| HussyvelRibeiroDaSilva | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Java/mid/HussyvelRibeiroDaSilva.pdf) |
+| MarcklenGuimaraes | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Java/mid/MarcklenGuimaraes.pdf) |
+| Diegoazevedo | sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Java/sr/CV.Diegoazevedo.pdf) |
+| GabrielSantos | sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Java/sr/CV.GabrielSantos.pdf) |
+| Victor Leme | sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Java/sr/Victor%20Leme%20resume.pdf) |
 
-#### Node.js
+#### NodeJs
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| gustavo barbosa | mid | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/NodeJs/mid/gustavo-barbosa.pdf) |
-| joao neto | mid | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/NodeJs/mid/joao-neto.pdf) |
-| reynaldo souza | mid | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/NodeJs/mid/reynaldo-souza.pdf) |
+| gustavo barbosa | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/NodeJs/mid/gustavo-barbosa.pdf) |
+| joao neto | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/NodeJs/mid/joao-neto.pdf) |
+| reynaldo souza | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/NodeJs/mid/reynaldo-souza.pdf) |
 
 #### Python
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| Kassio Wallace | Jr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/Python/Jr/Resume%20Kassio%20Wallace.pdf) |
-| antonio silva | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/Python/Sr/antonio-silva.pdf) |
+| Kassio Wallace | Jr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Python/Jr/Resume%20Kassio%20Wallace.pdf) |
+| antonio silva | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Python/Sr/antonio-silva.pdf) |
 
 ### Mobile Development
 
@@ -129,19 +129,19 @@ The .NET section contains 20 professionals with expertise in Microsoft technolog
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| Marcelo Garcia Bassichetti | sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/Flutter/sr/CV%20Marcelo%20Garcia%20Bassichetti.pdf) |
+| Marcelo Garcia Bassichetti | sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Flutter/sr/CV%20Marcelo%20Garcia%20Bassichetti.pdf) |
 
 #### React Native
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| Moser Zeferino Vicente Jose | sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/React%20Native/sr/Moser_Zeferino_Vicente_Jose.pdf) |
+| Moser Zeferino Vicente Jose | sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/React%20Native/sr/Moser_Zeferino_Vicente_Jose.pdf) |
 
 #### iOS
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| roberto teixeira | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/iOS/Sr/roberto-teixeira.pdf) |
+| roberto teixeira | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/iOS/Sr/roberto-teixeira.pdf) |
 
 ### DevOps and Infrastructure
 
@@ -149,33 +149,32 @@ The .NET section contains 20 professionals with expertise in Microsoft technolog
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| Diego Faria dos Santos | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/Cloud%20Platform%20Engineer/Sr/Diego-Faria-dos-Santos.pdf) |
+| Diego Faria dos Santos | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Cloud%20Platform%20Engineer/Sr/Diego-Faria-dos-Santos.pdf) |
 
-#### DevOps
-
-| Developer | Level | Resume |
-| :--- | :--- | :--- |
-| Diego Faria dos Santos | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/Devops/Sr/Diego-Faria-dos-Santos.pdf) |
-
-#### SRE (Site Reliability Engineer)
+#### Devops
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| Diego Faria dos Santos | Sr | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/SRE/Sr/Diego-Faria-dos-Santos.pdf) |
+| Diego Faria dos Santos | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Devops/Sr/Diego-Faria-dos-Santos.pdf) |
+
+#### SRE
+
+| Developer | Level | Resume |
+| :--- | :--- | :--- |
+| Diego Faria dos Santos | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/SRE/Sr/Diego-Faria-dos-Santos.pdf) |
 
 ### Database and Data
 
-#### Oracle
-
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| Claudio Aragao Matos | PLSQL | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/Oracle/PLSQL/Resume_Claudio_Aragao_Matos.pdf) |
+| Resume Claudio Aragao Matos | PLSQL | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Oracle/PLSQL/Resume_Claudio_Aragao_Matos.pdf) |
 
 ### Quality Assurance
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| Gustavo Reinaldo EN cv | Not specified | [View](https://github.com/Pedrospecian/br-remote-devs-talents/blob/main/QA/Gustavo-Reinaldo-EN%20cv.pdf) |
+| Gustavo Reinaldo EN | — | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/QA/Gustavo-Reinaldo-EN%20cv.pdf) |
+
 
 ## Statistics
 
