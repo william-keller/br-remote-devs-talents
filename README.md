@@ -80,7 +80,7 @@ br-remote-devs-talents/
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
-| Carlos Junior | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Angular/Sr/Carlos_Junior.pdf) |
+| Carlos Junior Frontend Engineer | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/Angular/Sr/Carlos_Junior_Frontend_Engineer.pdf) |
 
 #### React
 
