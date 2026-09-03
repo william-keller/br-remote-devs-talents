@@ -112,6 +112,7 @@ br-remote-devs-talents/
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
+| Joao Ferreira | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/NodeJs/mid/Joao_Ferreira.pdf) |
 | gustavo barbosa | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/NodeJs/mid/gustavo-barbosa.pdf) |
 | joao neto | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/NodeJs/mid/joao-neto.pdf) |
 | reynaldo souza | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/NodeJs/mid/reynaldo-souza.pdf) |
