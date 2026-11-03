@@ -53,6 +53,7 @@ br-remote-devs-talents/
 
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
+| matheus tonon | Mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Mid/matheus-tonon.pdf) |
 | FlavioDePaula | Principal-TechLead | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Principal-TechLead/FlavioDePaula.pdf) |
 | william keller | Principal-TechLead | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Principal-TechLead/william-keller.pdf) |
 | Rodrigo Rosa eng | Sr | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/.NET/Sr/CV%20Rodrigo%20Rosa%20eng%20.pdf) |
@@ -113,6 +114,7 @@ br-remote-devs-talents/
 | Developer | Level | Resume |
 | :--- | :--- | :--- |
 | Joao Ferreira | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/NodeJs/mid/Joao_Ferreira.pdf) |
+| elton dantas | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/NodeJs/mid/elton-dantas.pdf) |
 | gustavo barbosa | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/NodeJs/mid/gustavo-barbosa.pdf) |
 | joao neto | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/NodeJs/mid/joao-neto.pdf) |
 | reynaldo souza | mid | [View](https://github.com/william-keller/br-remote-devs-talents/blob/main/NodeJs/mid/reynaldo-souza.pdf) |
